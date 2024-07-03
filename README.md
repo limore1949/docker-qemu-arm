@@ -35,7 +35,7 @@ $ ./termux-setup.sh
 ## Raspberry Pi OS
 
 ```bash
-$ git clone https://github.com/antonyz89/docker-qemu-arm
+$ git clone https://github.com/limore1949/docker-qemu-arm
 $ cd docker-qemu-arm
 $ ./pi-setup.sh
 ```
@@ -43,7 +43,7 @@ $ ./pi-setup.sh
 ## Fedora ARM
 
 ```bash
-$ git clone https://github.com/antonyz89/docker-qemu-arm
+$ git clone https://github.com/limore1949/docker-qemu-arm
 $ cd docker-qemu-arm
 $ ./fedora-arm-setup.sh
 ```
