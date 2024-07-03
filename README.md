@@ -26,7 +26,7 @@ Just remember to update the alpine-virt version to the latest and use my [answer
 ⚠️ Using **proot-distro** with **ubuntu**? Use `./ubuntu-setup.sh` instead of `./termux-setup.sh`
 
 ```bash
-$ git clone https://github.com/antonyz89/docker-qemu-arm
+$ git clone https://github.com/limore1949/docker-qemu-arm
 $ cd docker-qemu-arm
 $ ./termux-setup.sh
 ```
